@@ -1,2 +1,2 @@
-# nat-recipes
+# jss-recipes
  jss recipes
